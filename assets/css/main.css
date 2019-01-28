@@ -1941,25 +1941,6 @@ input, select, textarea {
 		display: inline-block;
 	}
 
-		#logo h1 {
-			background: #171796;
-			color: #fff;
-			border-radius: 6px;
-			font-family: 'Gotham', "Avenir Next", sans-serif;
-			font-weight: 400;
-			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3.25em;
-			line-height: 1em;
-			letter-spacing: 0.05em;
-			display: inline-block;
-			vertical-align: middle;
-		}
-
-		#logo strong {
-			color: white;
-			font-weight: 600;
-		}
-
 /* Nav */
 
 	#nav {
@@ -2274,13 +2255,6 @@ input, select, textarea {
 
 			#header {
 				margin: 0 auto;
-			}
-
-		/* Logo */
-
-			#logo span {
-				display: block;
-				margin: 0;
 			}
 
 		/* Nav */
@@ -2636,13 +2610,11 @@ input, select, textarea {
 
 		/* Logo */
 
-			#logo h1 {
-				font-size: 2.75em;
-				padding: 0.2em 0.275em;
-			}
-
-			#logo span {
-				line-height: 3em;
+			@media screen and (max-width: 980px) {
+				#logo img {
+					border-radius: 4px !important;
+					width: 310px !important;
+				}
 			}
 
 		/* Banner */
