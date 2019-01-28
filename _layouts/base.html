@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125821823-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-125821823-1');
+  </script>
+
+  <!-- begin meta nonsense -->
+  <meta itemprop="name" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+  <meta itemprop="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+  <meta itemprop="image" content="{% if page.photo %}{{page.photo | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}">
+
+  <!-- Facebook -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}"/>
+  <meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}"/>
+  <meta property="og:image" content="{% if page.socialimage %}{{page.socialimage | absolute_url}}{% elsif page.image %}{{page.image | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:url" content="{{page.url | absolute_url}}"/>
+  <meta property="og:site_name" content="{{ site.title }} "/>
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+  <meta name="twitter:image" content="{{site.image | absolute_url}}">
+  <meta name="twitter:url" content="{{page.url | absolute_url}}">
+  <!-- end meta nonsense -->
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"/>
+</head>
+<body class="is-preload left-sidebar">
+<div id="page-wrapper">
+
+  <!-- Header -->
+  <div id="header-wrapper">
+    <header id="header" class="container">
+
+      <!-- Logo -->
+      <div id="logo">
+        <a href="/"><img src="{{ '/assets/images/logo.png' | relative_url }}" style="border-radius: 6px;width: 525px;" alt="Vote For The Democrat"></a>
+      </div>
+
+      <!-- Nav -->
+      <nav id="nav">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li class="callout"><a href="/stickers/">Get the Stickers</a></li>
+        </ul>
+      </nav>
+
+    </header>
+  </div>
+
+  {{content}}
+
+  <!-- Footer -->
+  <div id="footer-wrapper">
+    <footer id="footer" class="container">
+      <div class="row">
+        <div class="col-4 col-6-medium col-12-small">
+
+          <!-- Links -->
+          <section class="widget links">
+            <h3>About VFTD</h3>
+            <p>This is a side project from one person, me, <a href="https://www.joeycastillo.com/">Joey</a>, and is unaffiliated with any candidate, campaign or organization. The opinions expressed on this site are my own, and do not represent the views of any employer.</p>
+          </section>
+
+        </div>
+        <div class="col-4 col-6-medium col-12-small">
+
+          <!-- Links -->
+          <section class="widget links">
+            <h3>Elect More Democrats</h3>
+            <ul class="style2">
+              <li><a href="https://democrats.org">Democratic National Committee</a></li>
+              <li><a href="https://democraticgovernors.org">Democratic Governors Association</a></li>
+              <li><a href="https://dccc.org">Democratic Congressional Campaign Committee</a></li>
+              <li><a href="https://www.dscc.org">Democratic Senatorial Campaign Committee</a></li>
+            </ul>
+          </section>
+
+        </div>
+        <div class="col-4 col-6-medium col-12-small">
+
+          <!-- Contact -->
+          <section class="widget contact">
+            <h3>Contact Us</h3>
+            <ul>
+              <li><a href="https://twitter.com/voteforthedem" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/VoteForTheDemocrat/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/voteforthedemocrat/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://github.com/voteforthedemocrat" class="icon fa-github"><span class="label">Github</span></a></li>
+            </ul>
+            <p>
+              Vote For The Democrat c/o Joey Castillo<br/>
+              <a href="mailto:joey@voteforthedemocrat.org">joey@voteforthedemocrat.org</a><br/>
+              </p>
+          </section>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <div id="copyright">
+            <ul class="menu">
+              <li>Website is &copy; {{ site.time | date: '%Y' }} Joey Castillo </li>
+              <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+              {% if page.copyright_line %}<li>For page <em>{{page.title}}</em>: {{ page.copyright_line | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+</div>
+
+<!-- Scripts -->
+<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jquery.dropotron.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/browser.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/breakpoints.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/util.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

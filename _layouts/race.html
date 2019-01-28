@@ -1,0 +1,55 @@
+---
+layout: base
+---
+<div id="banner-wrapper">
+  <div id="banner" class="box container">
+    <div class="row">
+      <div class="col-7 col-12-medium">
+        <h2>{{ page.title }}</h2>
+        {{ content }}
+      </div>
+      <div class="col-5 col-12-medium">
+        <ul>
+          <li><a href="https://vote.gov" class="button large icon fa-arrow-circle-right">Register to Vote</a></li>
+          <li><a href="https://www.usa.gov/absentee-voting" class="button large icon fa-arrow-circle-right">Vote Absentee</a></li>
+          <li><a href="https://www.usa.gov/election-office" class="button large icon fa-arrow-circle-right">Find My State Election Office</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="features-wrapper">
+  <div class="container">
+    <div class="row">
+      {% assign candidates = site.pages | where: "layout", "candidate" | sort: "surname", "last" %}
+      {% if page.race %}
+        {% assign candidates = candidates | where: "race", page.race %}
+      {% endif %}
+      {% if page.state %}
+        {% assign candidates = candidates | where: "state", page.state %}
+      {% endif %}
+      {% if page.district %}
+        {% assign candidates = candidates | where: "district", page.district %}
+      {% endif %}
+      {% for candidate in candidates %}
+        {% if candidate.viable %}
+          <div class="col-4 col-12-medium">
+            <section class="box feature">
+              <a href="{{ candidate.url | relative_url }}" class="image featured">
+                {% if candidate.photo %}
+                  <img src="{{ candidate.photo | relative_url }}" alt="Portrait of {{ candidate.title }}">
+                {% else %}
+                  <img src="{{ '/assets/images/placeholder.jpg' | relative_url }}" alt="Placeholder image"/>
+                {% endif %}
+              </a>
+              <div class="inner">
+                <h2><a href="{{candidate.url | relative_url}}">{{candidate.title}}</a></h2>
+                <h6>for {{ page.title }}</h6>
+              </div>
+            </section>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

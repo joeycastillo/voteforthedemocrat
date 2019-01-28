@@ -1,0 +1,64 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/voteforthedemocrat/voteforthedemocrat
+    parallelism: 1
+    shell: /bin/bash --login
+    docker:
+      - image: circleci/ruby:2.4.3-jessie-node
+        command: /sbin/init
+    steps:
+    - checkout
+    - restore_cache:
+        keys:
+        - v1-dep-{{ .Branch }}-
+        - v1-dep-master-
+        - v1-dep-
+    - run: 
+        name: Bundle Install
+        command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+    - run: 
+        name: Build Site
+        command: bundle exec jekyll build --verbose
+    - save_cache:
+        key: v1-dep-{{ .Branch }}-{{ epoch }}
+        paths:
+          - ~/.bundle
+          - vendor/bundle
+    - run: 
+        name: HTMLProofer Tests
+        command: bundle exec htmlproofer ./_site --check-html --disable-external
+    - persist_to_workspace:
+        root: ./
+        paths:
+          - _site
+  deploy:
+    machine:
+      enabled: true
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Publish to Site
+          working_directory: ./_site
+          command: |
+            # I'm not a huge fan of this hack but what can I say, it works.
+            # To deploy we init a new git repo with the latest files and force push it to github pages.
+            git init
+            git config credential.helper 'cache --timeout=120'
+            git config user.email "noreply@voteforthedemocrat.org"
+            git config user.name "Deployment Robot"
+            git add .
+            git commit -m "automatic deployment"
+            git push --set-upstream -qf https://${VFTD_GITHUB_TOKEN}@github.com/voteforthedemocrat/voteforthedemocrat.github.io.git/ master > /dev/null 2>&1
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master

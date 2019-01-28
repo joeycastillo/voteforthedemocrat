@@ -1,0 +1,22 @@
+title: Vote For The Democrat
+email: joey@voteforthedemocrat.org
+description: It really is that simple.
+baseurl: ""
+url: "https://www.voteforthedemocrat.org"
+
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - .DS_Store
+  - .gitignore
+  - Gemfile
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

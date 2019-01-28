@@ -1,0 +1,49 @@
+---
+layout: base
+---
+<div id="main-wrapper">
+  <div class="container">
+    <div class="row gtr-200">
+      <div class="col-4 col-12-medium">
+        <div id="sidebar">
+
+          <!-- Sidebar -->
+          <section>
+            <figure>
+            {% if page.photo %}
+              <img style="width: 100%" src="{{ page.photo | relative_url }}" alt="Portrait of {{ candidate.title }}">
+              {% if page.photo_terms %}<figcaption>{{page.photo_terms}}</figcaption>{% endif %}
+            {% else %}
+              <img style="width: 100%" src="{{ '/assets/images/placeholder.jpg' | relative_url }}" alt="Placeholder image"/>
+            {% endif %}
+            </figure>
+            <h3>How to Help</h3>
+            {{ page.get_involved }}
+            <ul class="getinvolved">
+              <li><a href="{{ page.website }}" class="button icon fa-arrow-circle-right">Campaign Website</a></li>
+              {% if page.donate_link %}<li><a href="{{ page.donate_link }}" class="button icon fa-arrow-circle-right">Donate</a></li>{% endif %}
+              {% if page.volunteer_link %}<li><a href="{{ page.volunteer_link }}" class="button icon fa-arrow-circle-right">Volunteer</a></li>{% endif %}
+              {% if page.other_link %}<li><a href="{{ page.other_link }}" class="button icon fa-arrow-circle-right">Campaign Website</a></li>{% endif %}
+            </ul>
+            <h3>On Social Media</h3>
+            <ul class="style2">
+              {% if page.facebook %}<li class="icon fa-facebook "> <a href="https://facebook.com/{{ page.facebook }}/">{{ page.facebook }}</a></li>{% endif %}
+              {% if page.twitter %}<li class="icon fa-twitter"> <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>{% endif %}
+              {% if page.instagram %}<li class="icon fa-instagram"> <a href="https://instagram.com/{{ page.instagram }}">@{{ page.instagram }}</a></li>{% endif %}
+              {% if page.youtube %}<li class="icon fa-youtube"> <a href="https://www.youtube.com/channel/{{ page.youtube }}">{{ page.title }}</a></li>{% endif %}
+            </ul>
+          </section>
+        </div>
+      </div>
+      <div class="col-8 col-12-medium imp-medium">
+        <div id="content">
+          <!-- Content -->
+          <article>
+          <h2>{{ page.title }}</h2>
+          {{ content }}
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
