@@ -6,6 +6,7 @@ race: president
 name: Cory
 surname: Booker
 photo: /president/cory-booker.jpg
+photo_terms: CC-BY 2.0 photo by Senate Democrats
 website: https://corybooker.com
 donate_link: https://secure.actblue.com/donate/cory2020
 volunteer_link:
