@@ -13,20 +13,20 @@ facebook: ElizabethWarren
 twitter: ewarren
 instagram: elizabethwarren
 youtube: UCrj-0FxK19tgUR2EbHkBBGg
-copyright_line: Bio text adapted from [GFDL](https://www.gnu.org/licenses/fdl.html) licensed content from [Ballotpedia](https://ballotpedia.org/Elizabeth_Warren/Biography_and_career).
+copyright_line: Bio text is from the [candidate's website](https://elizabethwarren.com/meet-elizabeth/) and is &copy; 2019 Warren for President.
 ---
-Elizabeth Warren was born on June 22, 1949, in Oklahoma City, OK. She graduated from high school at age 16 and earned a B.S. in speech pathology in 1970 from the University of Houston. She earned her J.D. from Rutgers School of Law in 1976. She has taught at the University of Texas, University of Michigan, University of Pennsylvania and Harvard University.
+Elizabeth Warren grew up on the ragged edge of the middle class in Oklahoma and became a teacher, a law professor, and a US Senator because America invested in kids like her. Elizabeth’s dad sold fencing and carpeting, and ended up as a building maintenance man. Her mom stayed home with Elizabeth and her older brothers.
 
-In January 2012, Warren was named a "Top-20 US Progressive" according to The New Statesman, a magazine based in the United Kingdom. Other members of the list include Paul Krugman, Michael Moore, Noam Chomsky and Rachel Maddow.
+When Elizabeth was twelve, her dad suffered a heart attack and was out of work for a long time. They lost the family station wagon, and were about an inch away from losing their home, when her mom got a minimum wage job answering phones at Sears. That job saved their home, and it saved their family.
 
-Below is an abbreviated outline of Warren's academic, professional, and political career:
+From the time Elizabeth was in second grade, she wanted to be a teacher, but her family didn’t have money for college. Elizabeth got a second chance at a commuter college in Texas that cost $50 a semester, and she started teaching children with special needs at a public elementary school. Her daughter Amelia was born when Elizabeth was 22.
 
-* 2012-Present: U.S. Senator from Massachusetts
-* 2010-2011: Special assistant to President Barack Obama for the Consumer Financial Protection Bureau
-* 2008-2010: Chair, Congressional Oversight Panel for the Troubled Asset Relief Program
-* 1976: Graduated from Rutgers University with a Juris Doctor
-* 1970: Graduated from the University of Houston with a B.S.
-* 1966-1968: Attended George Washington University
+Elizabeth was a law professor for more than 30 years at Rutgers, the University of Houston, University of Texas-Austin, University of Michigan, University of Pennsylvania, and Harvard. She is one of the nation’s top experts on the financial pressures facing middle class families.
 
-Prior to entering politics, Warren was an elementary school teacher, lawyer, law professor and bankruptcy analyst.
+During the 2008 financial crisis, Elizabeth served as Chair of the Congressional Oversight Panel to provide oversight of TARP, the Wall Street bailout. She fought to protect taxpayers, hold Wall Street accountable, and ensure tough oversight of both the Bush and Obama Administrations.
 
+Elizabeth is widely credited for the original thinking, political courage, and relentless persistence that led to the creation of the Consumer Financial Protection Bureau. As an assistant to President Barack Obama and special adviser to the Secretary of the Treasury, she led the establishment of the consumer agency to protect consumers from financial tricks and traps often hidden in mortgages, credit cards, and other financial products.
+
+Wall Street opposed the CFPB, and they didn’t want Elizabeth – the agency’s biggest champion – to run it. After Senate Republicans vowed to block Elizabeth’s nomination to serve as the first director of the CFPB, Elizabeth ran for the U.S. Senate in her home state of Massachusetts. She has served as the Bay State’s Senior Senator since 2013.
+
+Elizabeth and her husband Bruce have been married for 38 years. They have three grandchildren and a golden retriever named Bailey.
