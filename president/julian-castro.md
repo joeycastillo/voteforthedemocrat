@@ -13,11 +13,16 @@ facebook: Julian-Castro-97458155742
 twitter: juliancastro
 instagram: juliancastrotx
 youtube: 
-copyright_line: Bio text adapted from [GFDL](https://www.gnu.org/licenses/fdl.html) licensed content from [Ballotpedia](https://ballotpedia.org/Julian_Castro).
+copyright_line: Bio text adapted from [the candidate's website](https://www.julianforthefuture.com/about/) and may be &copy; 2019 Julián for the Future.
 ---
-Julian Castro was the secretary of housing and urban development (HUD). Castro was nominated by President Barack Obama on May 23, 2014, and he was confirmed by the Senate on July 9, 2014, by a vote of 71-26. 
+Julián Castro was raised on the West Side of San Antonio, where his mother instilled in him and his brother Joaquin the power of action. During her campaign as the first Chicana to run for San Antonio city council, she taught them that if you want to make a change in your community, you don’t wait — you work. You make your future happen.
 
-During a nomination ceremony on May 23, 2016, President Barack Obama explained how Castro’s family prepared him to serve as the secretary of housing and urban development. “Julián’s grandmother came to this country from Mexico,” Obama said. “She worked as a maid, worked as a cook, worked as a babysitter -- whatever she had to do to keep a roof over her family’s head. And that’s because for her, and generations of Americans like her, a home is more than just a house. A home is a source of pride and security. It’s a place to raise a family and put down roots and build up savings for college or a business or retirement, or write a lifetime of memories. And maybe one day the kid grows up in that home and is able to go on to get a great education and become the Mayor of San Antonio, and become a member of the President’s Cabinet. Julián ha vivido el Sueño Americano. And it’s precisely because he’s lived out the American Dream that he’ll work his tail off to make sure more people can travel that same path and earn their own dreams as well.”
+So they did. With their mother’s support, Joaquin and Julián went to college and law school. And in just two generations after their grandmother arrived here with nothing, Joaquin became a Member of Congress and Julián had the honor of serving in President Obama’s Cabinet.
 
-Castro previously served as Mayor of San Antonio. Prior to that, he was a member of the San Antonio City Council, representing District 7.
+As the Secretary of Housing and Urban Development, Julián worked to expand the promise of opportunity to Americans all over the nation. Together, Julián and his team made housing more accessible, lessened homelessness among our nation’s veterans and even offered internet access to families in public housing. They set out to help families get back on their feet and achieve more than they thought possible.
 
+Julián has spent the last several years traveling around the nation talking to Americans about their hopes, their dreams and their fears about the future. Americans from all walks of life want the same thing: to do right by their families and have the promise of America fulfilled.
+
+Julián believes that’s exactly what we can do: We can promise young people that college doesn’t have to equal a future of crushing debt. We can promise our seniors that they can count on a life of dignity. We can promise our veterans that they’ll be respected and honored when they come home. We can promise people of color that they are safe, and promise immigrants that they are welcome.
+
+Julián Castro is running for President because he believes that if we work together, we can make — and keep — that promise to every American and work towards a future for all of them.

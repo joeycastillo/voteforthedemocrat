@@ -16,8 +16,8 @@ twitter: andrewyangVFA
 instagram: andrewyangvfa
 youtube: UCriIuQZpMi6gEt_2P7xKCww
 ---
-Andrew Yang (born January 13, 1975) is an American entrepreneur, the founder of Venture for America, and a 2020 Democratic presidential candidate. He has worked in startups and early stage growth companies as a founder or executive for nearly two decades and was appointed to public office in 2015 by the Obama administration as an Ambassador of Global Entrepreneurship.
+Andrew Yang is an American entrepreneur, the founder of Venture for America, and a 2020 Democratic presidential candidate. He has worked in startups and early stage growth companies as a founder or executive for nearly two decades and was appointed to public office in 2015 by the Obama administration as an Ambassador of Global Entrepreneurship.
 
 Yang is the author of _Smart People Should Build Things_ and _The War on Normal People_, books about automation of labor. In Yang's current bid for the 2020 presidential nomination, one of his main campaign goals would be to implement a universal basic income (UBI) for every American adult over the age of 18. His campaign proposes a $1,000/month "Freedom Dividend" to all U.S. citizens between the ages of 18 to 64, and other responses to predictions of mass unemployment from technological automation. 
 
-Yang is the first man of Asian ancestry to run for President of the United States as a Democrat. The campaign has been considered a long shot.
+Yang is the first man of Asian ancestry to run for President of the United States as a Democrat.
