@@ -6,7 +6,7 @@ race: president
 name: Andrew
 surname: Yang
 photo: /president/andrew-yang.jpg
-photo_terms: CC-BY-SA 4.0 photo by Asa Mathat for Techonomy
+photo_terms: "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [photo](https://commons.wikimedia.org/wiki/File:Andrew_Yang_talking_about_urban_entrepreneurship_at_Techonomy_Conference_2015_in_Detroit,_MI.jpg) by [Asa Mathat](http://www.asamathat.com/) for [Techonomy](https://techonomy.com/conf/13-detroit/startup-nation/everybodys-starting-something/)"
 copyright_line: Bio text adapted from [CC-BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) content from [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Yang_(entrepreneur)).
 website: https://www.yang2020.com
 donate_link: https://secure.actblue.com/donate/friends-of-andrew-yang
