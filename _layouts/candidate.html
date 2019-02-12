@@ -12,7 +12,7 @@ layout: base
             <figure>
             {% if page.photo %}
               <img style="width: 100%" src="{{ page.photo | relative_url }}" alt="Portrait of {{ candidate.title }}">
-              {% if page.photo_terms %}<figcaption>{{page.photo_terms}}</figcaption>{% endif %}
+              {% if page.photo_terms %}<figcaption>{{ page.photo_terms | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}
             {% else %}
               <img style="width: 100%" src="{{ '/assets/images/placeholder.jpg' | relative_url }}" alt="Placeholder image"/>
             {% endif %}
