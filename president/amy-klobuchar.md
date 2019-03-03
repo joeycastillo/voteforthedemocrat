@@ -1,8 +1,6 @@
 ---
 title: Amy Klobuchar
 viable: true
-layout: candidate
-race: president
 name: Amy
 surname: Klobuchar
 photo: /president/amy-klobuchar.jpg

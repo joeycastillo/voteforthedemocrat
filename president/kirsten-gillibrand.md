@@ -1,8 +1,6 @@
 ---
 title: Kirsten Gillibrand
 viable: true
-layout: candidate
-race: president
 name: Kirsten
 surname: Gillibrand
 photo: /president/kirsten-gillibrand.jpg

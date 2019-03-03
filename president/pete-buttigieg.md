@@ -1,8 +1,6 @@
 ---
 title: Pete Buttigieg
 viable: true
-layout: candidate
-race: president
 name: Pete
 surname: Buttigieg
 photo: /president/pete-buttigieg.jpg

@@ -3,8 +3,27 @@ email: joey@voteforthedemocrat.org
 description: It really is that simple.
 baseurl: ""
 url: "https://www.voteforthedemocrat.org"
+permalink: pretty
 
-permalink: /:year/:month/:day/:title/
+defaults:
+  -
+    scope:
+      path: "president"
+    values:
+      layout: candidate
+      race: president
+  -
+    scope:
+      path: "senate"
+    values:
+      layout: candidate
+      race: senate
+  -
+    scope:
+      path: "house"
+    values:
+      layout: candidate
+      race: house
 
 # Build settings
 markdown: kramdown
@@ -13,10 +32,6 @@ exclude:
   - .DS_Store
   - .gitignore
   - Gemfile
-  - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor

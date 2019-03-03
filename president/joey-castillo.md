@@ -1,8 +1,6 @@
 ---
 title: Joey Castillo
 viable: false
-layout: candidate
-race: president
 name: Joey
 surname: Castillo
 photo: 

@@ -21,8 +21,6 @@ Just find the candidate's page (it looks like `/president/firstname-lastname.md`
     ---
     title: Andrew Yang
     viable: true
-    layout: candidate
-    race: president
     name: Andrew
     surname: Yang
     photo: /president/andrew-yang.jpg
@@ -40,7 +38,7 @@ Just find the candidate's page (it looks like `/president/firstname-lastname.md`
 
 Between the `---` lines is the *front matter*. They're like fields in a database, metadata that the Jekyll template will use to populate the page. 
 
-The first six fields shouldn't need to be edited. The `title` field is the name that appears on each page; `viable` notes whether the candidate should be shown in the listings; `layout` informs Jekyll to display the page as a candidate landing page; and `race` establishes which listing the candidate should appear in. The `name` and `surname` fields are used for sorting. If this is a house or senate candidate, there may also be a  `state` and `district` field in here.
+The first few fields shouldn't need to be edited. The `title` field is the name that appears on each page; `viable` notes whether the candidate should be shown in the listings. The `name` and `surname` fields are used for sorting. If this is a house or senate candidate, there may also be a  `state` and `district` field in here.
 
 The `photo` field is a relative URL to the candidate's photo; more on that in a moment. For now note that if you name it the same as the Markdown file and put it in the same folder, it's as simple as `/race/firstname-lastname.jpg` or `/race/state/firstname-lastname.jpg`. 
 
@@ -52,7 +50,7 @@ The `facebook`, `twitter`, `instagram` and `youtube` fields should contain just 
 
 The `copyright_line`, like the `photo_terms` field, should be filled in with the appropriate attributions for the candidate's bio.
 
-Finally, below the front matter is the bio itself. **For the moment, I'm aiming for 400-500 words per candidate**, written in the third person (i.e. not "I believe that," but "Candidate Smith believes..."). In some cases, campaign websites have bios that can fit this format; in other cases, I've raided Ballotpedia. If you're passionate about your candidate and want to write something better than what's there now, please have at! I'll fully admit that not every bio has equal quality at the moment, but the goal of this site is to tout all of the Democratic candidates, and a great bio is crucial to this effort. 
+Finally, below the front matter is the bio itself. **For the moment, I'm aiming for 400-500 words per candidate**, written in the third person (i.e. not "I believe that," but "Candidate Smith believes..."). In some cases, campaign websites have bios that can fit this format; in other cases, I've raided Ballotpedia or brazenly rewritten official campaign bios. If you're passionate about your candidate and want to write something better than what's there now, please have at! The goal of this site is to tout all of the Democratic candidates, and a great bio is crucial to this effort.
 
 ## Adding a New Candidate
 
@@ -76,8 +74,10 @@ Candidate photos are to be cropped to a 4:5 ratio. The final size of all photogr
 ![image](/assets/images/candidate-photo-thirds.png)
 
 * The subject should be completely centered within the frame.
-* The top of the subject's head should be just inside the top line of the frame.
+* The top of the subject's head should be just inside the top third line.
 * The subject's eyes should be just above the top third line and just within the left and right third lines.
 * The bottom third line should be just at the subject's neckline.
+
+If an official photo cannot be cropped to these guidelines ([Cory Booker](https://commons.wikimedia.org/wiki/File:Cory_Booker,_official_portrait,_114th_Congress.jpg)), is extremely outdated ([Bernie Sanders](https://commons.wikimedia.org/wiki/File:Bernie_Sanders.jpg)) or has incompatible licensing terms ([Marianne Williamson](https://marianne.com/about/)), you should try to find a Creative Commons or CC0 compatible image that can be cropped to fit the guidelines, preferably one where the candidate is [facing the camera](https://commons.wikimedia.org/wiki/File:Senator_Booker_Meets_with_Judge_Garland_(26396442725).jpg), with [eye contact](https://commons.wikimedia.org/wiki/File:Bernie_Sanders_in_January_2016_by_Gage_Skidmore.jpg) or [an engaged expression](https://commons.wikimedia.org/wiki/File:Andrew_Yang_talking_about_urban_entrepreneurship_at_Techonomy_Conference_2015_in_Detroit,_MI.jpg). Look for an image with [minimal background distractions](https://www.flickr.com/photos/jus10h/14041888020/) so that the focus is on the candidate and not the surrounding scene, but **do not clone-stamp or artificially blur the background**, even if the CC license allows modification. This is an ethics thing for me, not a copyright thing.
 
 Open a pull request touching only the files that need to be changed to add or update your candidate. There is no need to reach out via email; I'll get notified whenever a pull request is opened.

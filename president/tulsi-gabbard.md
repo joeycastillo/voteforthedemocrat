@@ -1,8 +1,6 @@
 ---
 title: Tulsi Gabbard
 viable: true
-layout: candidate
-race: president
 name: Tulsi
 surname: Gabbard
 photo: /president/tulsi-gabbard.jpg

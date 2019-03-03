@@ -1,8 +1,6 @@
 ---
 title: Andrew Yang
 viable: true
-layout: candidate
-race: president
 name: Andrew
 surname: Yang
 photo: /president/andrew-yang.jpg

@@ -1,8 +1,6 @@
 ---
 title: Elizabeth Warren
 viable: true
-layout: candidate
-race: president
 name: Elizabeth
 surname: Warren
 photo: /president/elizabeth-warren.jpg

@@ -1,8 +1,6 @@
 ---
 title: John Delaney
 viable: true
-layout: candidate
-race: president
 name: John
 surname: Delaney
 photo: /president/john-delaney.jpg

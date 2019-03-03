@@ -1,12 +1,10 @@
 ---
 title: Marianne Williamson
 viable: true
-layout: candidate
-race: president
 name: Marianne
 surname: Williamson
 photo: /president/marianne-williamson.jpg
-photo_terms: CC-BY 2.0 photo by Justin Higuchi
+photo_terms: "[CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) [photo](https://www.flickr.com/photos/jus10h/14041888020/) by [Justin Higuchi](https://www.instagram.com/jus10h/)"
 copyright_line: Bio text adapted from [CC-BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) content from [Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson).
 website: https://www.marianne2020.com
 donate_link: https://secure.actblue.com/donate/marianne-williamson-2020-committee

@@ -1,8 +1,6 @@
 ---
 title: Kamala Harris
 viable: true
-layout: candidate
-race: president
 name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg

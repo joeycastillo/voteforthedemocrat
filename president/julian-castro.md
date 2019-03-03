@@ -1,8 +1,6 @@
 ---
 title: Julián Castro
 viable: true
-layout: candidate
-race: president
 name: Julián
 surname: Castro
 photo: /president/julian-castro.jpg

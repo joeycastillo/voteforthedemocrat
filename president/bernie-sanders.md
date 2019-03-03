@@ -1,8 +1,6 @@
 ---
 title: Bernie Sanders
 viable: true
-layout: candidate
-race: president
 name: Bernie
 surname: Sanders
 photo: /president/bernie-sanders.jpg
