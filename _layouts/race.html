@@ -1,6 +1,19 @@
 ---
 layout: base
 ---
+{% assign candidates = site.pages | where: "layout", "candidate" | sort: "surname", "last" %}
+{% if page.race %}
+  {% assign candidates = candidates | where: "race", page.race %}
+  {% if page.race != "president" %}
+    {% assign candidates = candidates | sort: "state", "last" %}
+  {% endif %}
+{% endif %}
+{% if page.state %}
+  {% assign candidates = candidates | where: "state", page.state %}
+{% endif %}
+{% if page.district %}
+  {% assign candidates = candidates | where: "district", page.district %}
+{% endif %}
 <div id="banner-wrapper">
   <div id="banner" class="box container">
     <div class="row">
@@ -21,16 +34,6 @@ layout: base
 <div id="features-wrapper">
   <div class="container">
     <div class="row">
-      {% assign candidates = site.pages | where: "layout", "candidate" | sort: "surname", "last" %}
-      {% if page.race %}
-        {% assign candidates = candidates | where: "race", page.race %}
-      {% endif %}
-      {% if page.state %}
-        {% assign candidates = candidates | where: "state", page.state %}
-      {% endif %}
-      {% if page.district %}
-        {% assign candidates = candidates | where: "district", page.district %}
-      {% endif %}
       {% for candidate in candidates %}
         {% if candidate.viable %}
           <div class="col-4 col-12-medium">
@@ -44,7 +47,7 @@ layout: base
               </a>
               <div class="inner">
                 <h2><a href="{{candidate.url | relative_url}}">{{candidate.title}}</a></h2>
-                <h6>for {{ page.title }}</h6>
+                <h6>for {{ page.title }}{% if candidate.state %}{% assign cstate = site.data.states | where: 'abbreviation', candidate.state | first %} &ndash; {{ cstate.name | replace: ' ', '&nbsp;' }}{% endif %}</h6>
               </div>
             </section>
           </div>
