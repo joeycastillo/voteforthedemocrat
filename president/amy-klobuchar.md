@@ -6,12 +6,13 @@ surname: Klobuchar
 photo: /president/amy-klobuchar.jpg
 website: https://amyklobuchar.com
 donate_link: https://secure.actblue.com/donate/afa_launch_website
-volunteer_link: http://action.amyklobuchar.com/p/salsa/web/common/public/signup?signup_page_KEY=11770
+volunteer_link: http://action.amyklobuchar.com/p/salsa/web/common/public/signup
 facebook: amyklobuchar
 twitter: amyklobuchar
 instagram: amyklobuchar
 youtube: UCZZ4_LJnkeGnbiqQPKYDTaA
 copyright_line: Bio text adapted from the [candidate's Senate website](https://www.klobuchar.senate.gov/public/index.cfm/about-amy) and may be subject to copyright.
+description: Amy Klobuchar is the first woman elected to represent the State of Minnesota in the U.S. Senate. She has built a reputation of putting partisanship aside to help strengthen the economy and support families, workers and businesses. 
 ---
 Amy Klobuchar is the first woman elected to represent the State of Minnesota in the United States Senate. Throughout her public service, Senator Klobuchar has always embraced the values she learned growing up in Minnesota. Her grandfather worked 1500 feet underground in the iron ore mines of Northern Minnesota. Her father, Jim, was a newspaperman, and her mother, Rose, was an elementary school teacher who continued teaching until she was 70.
 

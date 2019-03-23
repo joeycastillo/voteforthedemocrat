@@ -12,6 +12,7 @@ twitter: tulsigabbard
 instagram: tulsigabbard
 youtube: 
 copyright_line: Bio text is from [the candidate's website](https://www.tulsi2020.com/about) and is &copy;2019 TULSI 2020.
+description: Tulsi Gabbard has represented Hawaii's 2nd congressional district since 2013 and an Iraq war veteran. She supports clean energy, reproductive freedom, criminal justice reform and LGBT equality.
 ---
 Since Tulsi Gabbard was young, she had an innate passion to protect the environment and empower other young people to do the same. At the age of 21, she stepped up to serve in the Hawaii State Legislature, followed by two deployments to the Mideast as a soldier in the Hawaii Army National Guard, and then she returned to serve on the Honolulu City Council. Today, she continues to serve as a fourth-term United States Congresswoman and a major in the National Guard. And now, she is offering to serve as President of the United States, calling for an end to America’s disastrous policy of regime-change wars and a renewed commitment to protecting our planet and rebuilding our communities here at home.
 

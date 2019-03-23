@@ -12,6 +12,7 @@ twitter: JohnKDelaney
 instagram: johnkdelaney
 youtube: 
 copyright_line: Bio text adapted from [the candidate's website](https://www.johnkdelaney.com/about/) and may be &copy; 2019 Friends of John Delaney.
+description: John Delaney has represented Maryland's 6th congressional district since 2013. He has introduced large-scale bipartisan legislation on infrastructure, tax reform, social security, and impact investing.
 ---
 John Delaney grew up in a blue-collar family in Wood-Ridge, New Jersey. His dad was a hardworking, 60-year member of the International Brotherhood of Electrical Workers, while his mom stayed home to raise his sister and him. John spent summers as a mason and excavation laborer, painter, landscaper, and most often, an electrician’s assistant, working side by side with his dad.
 

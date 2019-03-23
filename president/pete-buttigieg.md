@@ -12,6 +12,7 @@ twitter: PeteButtigieg
 instagram: pete.buttigieg
 youtube: 
 copyright_line: Bio text is from [the candidate's website](https://www.peteforamerica.com/meet-pete/) and may be &copy; 2019 Pete For America.
+description: Pete Buttigieg is the mayor of South Bend, Indiana and an Afghanistan war veteran. Under his leadership, South Bend has reimagined its role in the global economy with job growth and major investment in advanced industries.
 ---
 Pete Buttigieg is a millennial Mayor, Afghanistan war veteran, and husband. He is in his eighth and final year as Mayor of South Bend, Indiana.
 

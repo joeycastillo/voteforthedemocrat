@@ -12,6 +12,7 @@ twitter: hickenlooper
 instagram: johnhickenlooper
 youtube: 
 copyright_line: Bio text adapted from [the candidate's website](https://www.hickenlooper.com/about/) and may be &copy; 2019 Hickenlooper 2020.
+description: John Hickenlooper is the governor of Colorado, where he has expanded access to health care, developed regulations to reduce methane emissions and passed landmark gun safety legislation.
 ---
 John Hickenlooper grew up outside of Philadelphia, the youngest of four children. He attended Wesleyan University and received a bachelor’s in English and a master’s degree in Geology.
 

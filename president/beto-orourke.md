@@ -12,6 +12,7 @@ twitter: betoorourke
 instagram: betoorourke
 youtube: UCY_b49P0wvH9mrzZ2ciuKEg
 copyright_line: Bio text adapted from the [candidate's Senate campaign website](https://web.archive.org/web/20181108061428/https://betofortexas.com/about/) and may be subject to copyright.
+description: Beto O’Rourke represented Texas's 16th congressional district for three terms in the U.S. House of Representatives. He focused on curbing the influence of corporate money in Congress.
 ---
 Beto O’Rourke is a fourth-generation Texan, born and raised in El Paso, who represented Texas's 16th congressional district for three terms in the United States House of Representatives. 
 

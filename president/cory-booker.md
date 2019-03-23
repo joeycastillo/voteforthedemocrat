@@ -13,7 +13,8 @@ twitter: CoryBooker
 instagram: corybooker
 youtube: UC6FlymqNS1VettnVZa7goPA
 medium: CoryBooker
-copyright_line: Bio text is from [the candidate's website](https://corybooker.com) and is &copy;2019 CORY 2020. 
+copyright_line: Bio text is from [the candidate's website](https://corybooker.com) and is &copy;2019 CORY 2020.
+description: Cory Booker represents New Jersey in the United States Senate, where he co-sponsored the Employment Non-Discrimination Act and the Respect for Marriage Act. He supports women's rights, affirmative action and single-payer healthcare.
 ---
 Growing up, Cory Booker learned that the support of a loving community can overcome even the most impossible-seeming challenges.
 

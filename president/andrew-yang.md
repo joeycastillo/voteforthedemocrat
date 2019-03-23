@@ -13,6 +13,7 @@ facebook: andrewyang2020
 twitter: andrewyangVFA
 instagram: andrewyangvfa
 youtube: UCriIuQZpMi6gEt_2P7xKCww
+description: Andrew Yang is an American entrepreneur, the founder of Venture for America, and author of books about automation of labor. One of his main campaign goals is to implement universal basic income.
 ---
 Andrew Yang is an American entrepreneur, the founder of Venture for America, and a 2020 Democratic presidential candidate. He has worked in startups and early stage growth companies as a founder or executive for nearly two decades and was appointed to public office in 2015 by the Obama administration as an Ambassador of Global Entrepreneurship.
 
