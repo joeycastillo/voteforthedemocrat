@@ -12,7 +12,7 @@ Sometimes people need a sticker to remind them.
 
 ## About the Website
 
-It's focused on the Presidential primary for the moment, and only includes candidates that have formally announced or formed an exploratory committee (sorry, Joe). **As of March 2019 I'm working on expanding into Senate races! [Check here](https://github.com/joeycastillo/voteforthedemocrat/issues) for states and candidates you can help out with.**
+It's focused on the Presidential primary for the moment, and only includes candidates that have formally announced or formed an exploratory committee. **As of March 2019 I'm working on expanding into Senate races! [Check here](https://github.com/joeycastillo/voteforthedemocrat/issues) for states and candidates you can help out with.**
 
 If you want to edit a candidate bio or add a candidate, you can [fork the website on Github](https://github.com/joeycastillo/voteforthedemocrat) and open a pull request. If you don't know what that means, look around campaign HQ for the kid with [one of these stickers](https://supporters.eff.org/shop/eff-sticker-pack) on their laptop; they'll know what's up.
 
@@ -20,7 +20,7 @@ If you want to edit a candidate bio or add a candidate, you can [fork the websit
 
 They’re stickers, measuring 5½" × 2⅛", printed on high quality white vinyl by the fine folks at [Sticker Guy](https://www.stickerguy.com). They're ideally sized for you to stick on your truck, to leave in a coffee shop, or to put on that one wall in that one restroom that's covered floor to ceiling in stickers. They're also priced cheaply enough that after you've done all those things, you'll probably have some leftover to give your friends and family.
 
-You could also, y'know, buy a bunch and sell them outside the local Green Party convention for $2 a pop — it's a profit opportunity, AND an opportunity to be passive-aggressive with people who voted for Jill Stein. It's entirely up to you. So far I've sold five (thanks Audrey!), and given away a few thousand; all profits will go toward making more stickers, promoting the message or doing more with the website.
+You could also, y'know, buy a bunch and sell them outside the local Green Party convention for $2 a pop — it's a profit opportunity, AND an opportunity to be passive-aggressive with people who voted for Jill Stein. It's entirely up to you. For my part, all profits will go toward making more stickers, promoting the message or doing more with the website. So far it's made like negative $750 so I have a few stickers to sell to get out of the hole.
 
 ## Have Questions About Voting For The Democrat?
 
