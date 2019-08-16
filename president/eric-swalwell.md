@@ -1,6 +1,6 @@
 ---
 title: Eric Swalwell
-viable: true
+viable: false
 name: Eric
 surname: Swalwell
 photo: /president/eric-swalwell.jpg

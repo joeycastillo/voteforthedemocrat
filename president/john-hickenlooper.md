@@ -1,6 +1,6 @@
 ---
 title: John Hickenlooper
-viable: true
+viable: false
 name: John
 surname: Hickenlooper
 photo: /president/john-hickenlooper.jpg
