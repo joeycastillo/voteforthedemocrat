@@ -1,6 +1,8 @@
 ---
 title: Jay Inslee
 viable: false
+layout: redirect
+redirect_to: /president/
 name: Jay
 surname: Inslee
 photo: /president/jay-inslee.jpg
