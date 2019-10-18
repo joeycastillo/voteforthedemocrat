@@ -1,6 +1,8 @@
 ---
 title: Bill de Blasio
 viable: false
+layout: redirect
+redirect_to: /president/
 name: Bill
 surname: De Blasio
 photo: /president/bill-de-blasio.jpg
