@@ -1,6 +1,6 @@
 ---
 title: Jay Inslee
-viable: true
+viable: false
 name: Jay
 surname: Inslee
 photo: /president/jay-inslee.jpg
