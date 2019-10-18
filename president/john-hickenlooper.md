@@ -1,6 +1,8 @@
 ---
 title: John Hickenlooper
 viable: false
+layout: redirect
+redirect_to: /president/
 name: John
 surname: Hickenlooper
 photo: /president/john-hickenlooper.jpg
