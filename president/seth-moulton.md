@@ -1,6 +1,6 @@
 ---
 title: Seth Moulton
-viable: true
+viable: false
 name: Seth
 surname: Moulton
 photo: /president/seth-moulton.jpg
