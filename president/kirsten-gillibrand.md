@@ -1,6 +1,6 @@
 ---
 title: Kirsten Gillibrand
-viable: true
+viable: false
 name: Kirsten
 surname: Gillibrand
 photo: /president/kirsten-gillibrand.jpg
