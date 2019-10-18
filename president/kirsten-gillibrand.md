@@ -1,6 +1,8 @@
 ---
 title: Kirsten Gillibrand
 viable: false
+layout: redirect
+redirect_to: /president/
 name: Kirsten
 surname: Gillibrand
 photo: /president/kirsten-gillibrand.jpg
