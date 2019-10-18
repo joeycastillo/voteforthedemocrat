@@ -1,6 +1,8 @@
 ---
 title: Seth Moulton
 viable: false
+layout: redirect
+redirect_to: /president/
 name: Seth
 surname: Moulton
 photo: /president/seth-moulton.jpg
