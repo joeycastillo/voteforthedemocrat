@@ -1,6 +1,6 @@
 ---
 title: Bill de Blasio
-viable: true
+viable: false
 name: Bill
 surname: De Blasio
 photo: /president/bill-de-blasio.jpg
