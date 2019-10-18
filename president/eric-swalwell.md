@@ -1,6 +1,8 @@
 ---
 title: Eric Swalwell
 viable: false
+layout: redirect
+redirect_to: /president/
 name: Eric
 surname: Swalwell
 photo: /president/eric-swalwell.jpg
