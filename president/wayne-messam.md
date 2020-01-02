@@ -1,6 +1,7 @@
 ---
 title: Wayne Messam
-viable: true
+viable: false
+layout: redirect
 name: Wayne
 surname: Messam
 photo: /president/wayne-messam.jpg

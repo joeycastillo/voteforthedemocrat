@@ -1,6 +1,7 @@
 ---
 title: Tim Ryan
-viable: true
+viable: false
+layout: redirect
 name: Tim
 surname: Ryan
 photo: /president/tim-ryan.jpg
