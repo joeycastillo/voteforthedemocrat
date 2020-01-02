@@ -1,6 +1,7 @@
 ---
 title: Kamala Harris
-viable: true
+viable: false
+layout: redirect
 name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg

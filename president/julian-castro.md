@@ -1,6 +1,7 @@
 ---
 title: Julián Castro
-viable: true
+viable: false
+layout: redirect
 name: Julián
 surname: Castro
 photo: /president/julian-castro.jpg

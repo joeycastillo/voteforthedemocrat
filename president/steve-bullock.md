@@ -1,6 +1,7 @@
 ---
 title: Steve Bullock
-viable: true
+viable: false
+layout: redirect
 name: Steve
 surname: Bullock
 photo: /president/steve-bullock.jpg
