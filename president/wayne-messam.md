@@ -2,6 +2,7 @@
 title: Wayne Messam
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Wayne
 surname: Messam
 photo: /president/wayne-messam.jpg

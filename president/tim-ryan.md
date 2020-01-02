@@ -2,6 +2,7 @@
 title: Tim Ryan
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Tim
 surname: Ryan
 photo: /president/tim-ryan.jpg

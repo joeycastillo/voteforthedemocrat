@@ -2,6 +2,7 @@
 title: Kamala Harris
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg

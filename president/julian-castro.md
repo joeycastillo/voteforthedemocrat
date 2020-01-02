@@ -2,6 +2,7 @@
 title: Julián Castro
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Julián
 surname: Castro
 photo: /president/julian-castro.jpg
