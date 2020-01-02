@@ -2,6 +2,7 @@
 title: Steve Bullock
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Steve
 surname: Bullock
 photo: /president/steve-bullock.jpg

@@ -2,6 +2,7 @@
 title: Beto O'Rourke
 viable: false
 layout: redirect
+redirect_to: /president/
 name: Beto
 surname: O'Rourke
 photo: /president/beto-orourke.jpg
