@@ -1,6 +1,8 @@
 ---
 title: Marianne Williamson
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Marianne
 surname: Williamson
 photo: /president/marianne-williamson.jpg
