@@ -1,6 +1,8 @@
 ---
 title: Cory Booker
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Cory
 surname: Booker
 photo: /president/cory-booker.jpg
