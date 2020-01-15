@@ -4,6 +4,7 @@ description: It really is that simple.
 baseurl: ""
 url: "https://www.voteforthedemocrat.org"
 permalink: pretty
+image: http://www.voteforthedemocrat.org/assets/images/logo.png
 
 defaults:
   -
