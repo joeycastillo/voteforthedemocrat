@@ -1,6 +1,8 @@
 ---
 title: John Delaney
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: John
 surname: Delaney
 photo: /president/john-delaney.jpg
