@@ -1,6 +1,8 @@
 ---
 title: Andrew Yang
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Andrew
 surname: Yang
 photo: /president/andrew-yang.jpg
