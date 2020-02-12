@@ -1,6 +1,8 @@
 ---
 title: Deval Patrick
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Deval
 surname: Patrick
 photo: /president/deval-patrick.jpg
