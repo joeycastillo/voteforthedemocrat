@@ -1,6 +1,8 @@
 ---
 title: Michael Bennet
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Michael
 surname: Bennet
 photo: /president/michael-bennet.jpg
