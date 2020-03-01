@@ -1,6 +1,8 @@
 ---
 title: Tom Steyer
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Tom
 surname: Steyer
 photo: /president/tom-steyer.jpg
