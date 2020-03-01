@@ -1,6 +1,7 @@
 ---
 title: Bernie Sanders
 viable: true
+delegates: 59
 name: Bernie
 surname: Sanders
 photo: /president/bernie-sanders.jpg

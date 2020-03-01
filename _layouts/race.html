@@ -21,7 +21,7 @@ layout: base
 <div id="features-wrapper">
   <div class="container">
     <div class="row">
-      {% assign candidates = site.pages | where: "layout", "candidate" | sort: "surname", "last" %}
+      {% assign candidates = site.pages | where: "layout", "candidate" | sort: "delegates" | reverse %}
       {% if page.race %}
         {% assign candidates = candidates | where: "race", page.race %}
       {% endif %}

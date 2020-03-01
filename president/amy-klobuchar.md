@@ -1,6 +1,7 @@
 ---
 title: Amy Klobuchar
 viable: true
+delegates: 7
 name: Amy
 surname: Klobuchar
 photo: /president/amy-klobuchar.jpg

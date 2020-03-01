@@ -13,6 +13,7 @@ defaults:
     values:
       layout: candidate
       race: president
+      delegates: 0
   -
     scope:
       path: "senate"

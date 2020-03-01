@@ -1,6 +1,7 @@
 ---
 title: Elizabeth Warren
 viable: true
+delegates: 8
 name: Elizabeth
 surname: Warren
 photo: /president/elizabeth-warren.jpg

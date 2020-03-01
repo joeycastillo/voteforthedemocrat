@@ -1,6 +1,7 @@
 ---
 title: Pete Buttigieg
 viable: true
+delegates: 26
 name: Pete
 surname: Buttigieg
 photo: /president/pete-buttigieg.jpg
