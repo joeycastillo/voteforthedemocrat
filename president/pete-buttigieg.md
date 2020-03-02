@@ -1,6 +1,8 @@
 ---
 title: Pete Buttigieg
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 delegates: 26
 name: Pete
 surname: Buttigieg
