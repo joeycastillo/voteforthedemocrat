@@ -1,6 +1,8 @@
 ---
 title: Amy Klobuchar
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 delegates: 7
 name: Amy
 surname: Klobuchar
