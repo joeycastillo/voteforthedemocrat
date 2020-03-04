@@ -1,6 +1,8 @@
 ---
 title: Mike Bloomberg
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Mike
 surname: Bloomberg
 photo: /president/mike-bloomberg.jpg
