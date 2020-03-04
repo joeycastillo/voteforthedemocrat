@@ -3,7 +3,6 @@ title: Pete Buttigieg
 viable: false
 layout: redirect
 redirect_to: /president/
-delegates: 26
 name: Pete
 surname: Buttigieg
 photo: /president/pete-buttigieg.jpg

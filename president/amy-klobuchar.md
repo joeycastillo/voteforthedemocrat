@@ -3,7 +3,6 @@ title: Amy Klobuchar
 viable: false
 layout: redirect
 redirect_to: /president/
-delegates: 7
 name: Amy
 surname: Klobuchar
 photo: /president/amy-klobuchar.jpg

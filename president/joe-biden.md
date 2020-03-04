@@ -1,7 +1,7 @@
 ---
 title: Joe Biden
 viable: true
-delegates: 53
+delegates: 497
 name: Joe
 surname: Biden
 photo: /president/joe-biden.jpg
