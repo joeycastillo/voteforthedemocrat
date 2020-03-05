@@ -1,6 +1,8 @@
 ---
 title: Tulsi Gabbard
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Tulsi
 surname: Gabbard
 photo: /president/tulsi-gabbard.jpg
