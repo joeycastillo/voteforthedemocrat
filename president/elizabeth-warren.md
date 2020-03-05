@@ -1,6 +1,8 @@
 ---
 title: Elizabeth Warren
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 delegates: 47
 name: Elizabeth
 surname: Warren
