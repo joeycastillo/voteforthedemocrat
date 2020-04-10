@@ -1,6 +1,8 @@
 ---
 title: Bernie Sanders
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 delegates: 395
 name: Bernie
 surname: Sanders
