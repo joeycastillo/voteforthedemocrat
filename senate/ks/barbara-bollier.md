@@ -1,16 +1,16 @@
 ---
-title: Trevor Fuller
+title: Barbara Bollier
 viable: true
-name: Trevor
-surname: Fuller
-state: nc
+name: Barbara
+surname: Bollier
+state: ks
 photo: 
 photo_terms: 
-website: https://www.fullerfornorthcarolina.com
-donate_link: https://secure.actblue.com/donate/fullerfornorthcarolina
+website: 
+donate_link: 
 volunteer_link: 
-facebook: FullerforNorthCarolina
-twitter: fullerfornc
+facebook: 
+twitter: 
 instagram: 
 youtube: 
 copyright_line: 

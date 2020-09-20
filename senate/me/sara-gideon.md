@@ -1,9 +1,9 @@
 ---
-title: Tom Udall
+title: Sara Gideon
 viable: true
-name: Tom
-surname: Udall
-state: nm
+name: Sara
+surname: Gideon
+state: me
 photo: 
 photo_terms: 
 website: 

@@ -1,9 +1,9 @@
 ---
-title: James Mackler
+title: MJ Hegar
 viable: true
-name: James
-surname: Mackler
-state: tn
+name: MJ
+surname: Hegar
+state: tx
 photo: 
 photo_terms: 
 website: 

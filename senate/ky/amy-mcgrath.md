@@ -1,9 +1,9 @@
 ---
-title: Sema Hernandez
+title: Amy McGrath
 viable: true
-name: Sema
-surname: Hernandez
-state: tx
+name: Amy
+surname: McGrath
+state: ky
 photo: 
 photo_terms: 
 website: 
