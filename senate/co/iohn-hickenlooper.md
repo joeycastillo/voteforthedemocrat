@@ -3,6 +3,7 @@ title: John Hickenlooper
 viable: true
 name: John
 surname: Hickenlooper
+state: co
 photo: /senate/co/john-hickenlooper.jpg
 website: https://www.hickenlooper.com
 donate_link: https://secure.actblue.com/donate/jwh

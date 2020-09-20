@@ -5,7 +5,7 @@ name: Cory
 surname: Booker
 race: senate
 state: nj
-photo: /president/cory-booker.jpg
+photo: /senate/nj/cory-booker.jpg
 photo_terms: "[CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) [photo](https://commons.wikimedia.org/wiki/File:Senator_Booker_Meets_with_Judge_Garland_(26396442725).jpg) by [Senate Democrats](https://www.flickr.com/people/32619231@N02)"
 website: https://corybooker.com
 donate_link: https://secure.actblue.com/donate/cory2020
