@@ -1,5 +1,5 @@
 ---
-title: American Democracy Is At Stake This Year
+title: Our Democracy Is At Stake This Year
 layout: race
 description: You should vote for one of these candidates.
 image: http://www.voteforthedemocrat.org/assets/images/square.png
