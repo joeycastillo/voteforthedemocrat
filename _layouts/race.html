@@ -7,6 +7,8 @@ layout: base
   {% if page.race != "president" %}
     {% assign candidates = candidates | sort: "state", "last" %}
   {% endif %}
+{% else %}
+    {% assign candidates = candidates | sort: "photo", "last" | sort: "race", "last" %}
 {% endif %}
 {% if page.state %}
   {% assign candidates = candidates | where: "state", page.state %}
