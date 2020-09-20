@@ -1,6 +1,8 @@
 ---
 title: Julián Castro
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Julián
 surname: Castro
 photo: /president/julian-castro.jpg
@@ -12,6 +14,7 @@ twitter: juliancastro
 instagram: juliancastrotx
 youtube: 
 copyright_line: Bio text adapted from [the candidate's website](https://www.julianforthefuture.com/about/) and may be &copy; 2019 Julián for the Future.
+description: Julián Castro is the former mayor of San Antonio, Texas and served as Secretary of Housing and Urban Development. He has been an advocate for LGBT rights and, as mayor, opposed the law in Texas that denied legal recognition to same-sex marriages.
 ---
 Julián Castro was raised on the West Side of San Antonio, where his mother instilled in him and his brother Joaquin the power of action. During her campaign as the first Chicana to run for San Antonio city council, she taught them that if you want to make a change in your community, you don’t wait — you work. You make your future happen.
 

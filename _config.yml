@@ -4,6 +4,7 @@ description: It really is that simple.
 baseurl: ""
 url: "https://www.voteforthedemocrat.org"
 permalink: pretty
+image: http://www.voteforthedemocrat.org/assets/images/logo.png
 
 defaults:
   -
@@ -12,6 +13,7 @@ defaults:
     values:
       layout: candidate
       race: president
+      delegates: 0
   -
     scope:
       path: "senate"
@@ -25,12 +27,16 @@ defaults:
       layout: candidate
       race: house
 
+plugins:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 
 exclude:
   - .DS_Store
   - .gitignore
+  - .github
   - Gemfile
   - Gemfile.lock
   - node_modules

@@ -1,6 +1,8 @@
 ---
 title: Kirsten Gillibrand
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Kirsten
 surname: Gillibrand
 photo: /president/kirsten-gillibrand.jpg
@@ -12,6 +14,7 @@ twitter: gillibrandny
 instagram: kirstengillibrand
 youtube: 
 copyright_line: Bio text from the [candidate's website](https://2020.kirstengillibrand.com/meet-kirsten/) campaign website is &copy; 2019 Gillibrand 2020.
+description: Kirsten Gillibrand represents New York in the United States Senate, where she fought to repeal Don't Ask, Don't Tell and combat sexual assault in the military. She supports single payer health care, women's rights and government transparency.
 ---
 Born and raised in upstate New York, Kirsten Gillibrand inherited a dedication to public service from her grandmother and mother, who organized other women and served tirelessly in their communities. Drawing inspiration from these strong role models and others, Kirsten began her career as a young lawyer and then decided to pursue a path of public service to more directly help others whose voices weren’t being heard. 
 

@@ -1,0 +1,24 @@
+---
+layout: base
+---
+<img src="{{page.image}}" style="width: 100%" alt="{{page.image_alt}}">
+<div id="main-wrapper" style="padding-top: 1em">
+  <div class="container">
+    <div class="row gtr-100">
+      <div class="col-12 col-12-medium">
+        <div id="content">
+          <article>
+          <h2>{{ page.title }}</h2>
+          {{ content }}
+          </article>
+        </div>
+      </div>
+      <div class="col-6 col-12-medium">
+        <a href="/president/" class="button large" style="width: 100%; text-align: center">Show Me The Candidates</a>
+      </div>
+      <div class="col-6 col-12-medium">
+        <a href="/stickers/" class="button large alt" style="width: 100%; text-align: center">I Want Some Stickers</a>
+      </div>
+    </div>
+  </div>
+</div>

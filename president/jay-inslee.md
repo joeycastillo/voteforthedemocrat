@@ -1,6 +1,8 @@
 ---
 title: Jay Inslee
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Jay
 surname: Inslee
 photo: /president/jay-inslee.jpg
@@ -13,6 +15,7 @@ twitter: jayinslee
 instagram: jayinslee
 youtube: UCJhWBqWVdVnPro7tx2t7j3w
 copyright_line: Bio text is from [the candidate's website](https://jayinslee.com/meet-jay) and may be &copy; 2019 Inslee for America.
+description: Jay Inslee is the governor of Washington state since 2013, where he has implemented a bold, progressive vision to tackle climate change, strengthen working families and grow good-paying jobs.
 ---
 Governor Jay Inslee has led Washington state since 2013, implementing a bold, progressive vision to tackle climate change, strengthen working families and grow good-paying jobs.
 

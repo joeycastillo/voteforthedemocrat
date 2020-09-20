@@ -17,23 +17,23 @@
   <!-- begin meta nonsense -->
   <meta itemprop="name" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
   <meta itemprop="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
-  <meta itemprop="image" content="{% if page.photo %}{{page.photo | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{page.image | absolute_url}}{% else if page.photo %}{{page.photo | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}">
 
   <!-- Facebook -->
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}"/>
   <meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}"/>
-  <meta property="og:image" content="{% if page.socialimage %}{{page.socialimage | absolute_url}}{% elsif page.image %}{{page.image | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}"/>
-  <meta property="og:image:width" content="1200"/>
-  <meta property="og:image:height" content="630"/>
+  <meta property="og:image" content="{% if page.image %}{{page.image | absolute_url}}{% else if page.photo %}{{page.photo | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}"/>
+  <meta property="og:image:width" content="{% if page.image_width %}{{page.image_width}}{% else %}880{% endif %}"/>
+  <meta property="og:image:height" content="{% if page.image_height %}{{page.image_height}}{% else %}1100{% endif %}"/>
   <meta property="og:url" content="{{page.url | absolute_url}}"/>
-  <meta property="og:site_name" content="{{ site.title }} "/>
+  <meta property="og:site_name" content="{{ site.title }}"/>
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
-  <meta name="twitter:image" content="{{site.image | absolute_url}}">
+  <meta name="twitter:image" content="{% if page.image %}{{page.image | absolute_url}}{% else if page.photo %}{{page.photo | absolute_url}}{% else %}{{site.image | absolute_url}}{% endif %}">
   <meta name="twitter:url" content="{{page.url | absolute_url}}">
   <!-- end meta nonsense -->
 
@@ -57,7 +57,7 @@
       <!-- Nav -->
       <nav id="nav">
         <ul>
-          <li><a href="/">Home</a></li>
+          <li><a href="/president/">Candidates</a></li>
           <li><a href="/about/">About</a></li>
           <li class="callout"><a href="/stickers/">Get the Stickers</a></li>
         </ul>

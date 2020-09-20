@@ -1,6 +1,8 @@
 ---
 title: Marianne Williamson
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Marianne
 surname: Williamson
 photo: /president/marianne-williamson.jpg
@@ -13,6 +15,7 @@ facebook: williamsonmarianne
 twitter: marwilliamson
 instagram: mariannewilliamson
 youtube: UCQ233EaJoyBOGTSqI4rlEcg
+description: Marianne Williamson is an American spiritual teacher, author, lecturer, entrepreneur and activist. She believes in economic justice, combating climate change, campaign finance reform, universal health care, reproductive rights, and LGBTQ equality.
 ---
 Marianne Deborah Williamson is an American spiritual teacher, author, lecturer, entrepreneur and activist. She has published twelve books, including four New York Times number one bestsellers. In 1997 Williamson published her book Healing the Soul of America (hardcover originally titled The Healing of America) and began a more robust political engagement. In this book, Williamson laid out plans to “transform the American political consciousness and encourage powerful citizen involvement to heal our society.”
 

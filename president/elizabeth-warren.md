@@ -1,6 +1,9 @@
 ---
 title: Elizabeth Warren
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
+delegates: 47
 name: Elizabeth
 surname: Warren
 photo: /president/elizabeth-warren.jpg
@@ -12,6 +15,7 @@ twitter: ewarren
 instagram: elizabethwarren
 youtube: UCrj-0FxK19tgUR2EbHkBBGg
 copyright_line: Bio text is from the [candidate's website](https://elizabethwarren.com/meet-elizabeth/) and is &copy; 2019 Warren for President.
+description: Elizabeth Warren is the senior United States Senator for Massachusetts and an active consumer protection advocate whose efforts led to the conception and establishment of the U.S. Consumer Financial Protection Bureau.
 ---
 Elizabeth Warren grew up on the ragged edge of the middle class in Oklahoma and became a teacher, a law professor, and a US Senator because America invested in kids like her. Elizabeth’s dad sold fencing and carpeting, and ended up as a building maintenance man. Her mom stayed home with Elizabeth and her older brothers.
 

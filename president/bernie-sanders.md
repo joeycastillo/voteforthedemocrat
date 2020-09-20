@@ -1,6 +1,9 @@
 ---
 title: Bernie Sanders
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
+delegates: 395
 name: Bernie
 surname: Sanders
 photo: /president/bernie-sanders.jpg
@@ -13,7 +16,8 @@ twitter: berniesanders
 instagram: berniesanders
 youtube: UCH1dpzjCEiGAt8CXkryhkZg
 medium: BernieSanders
-copyright_line: Bio text adapted from [an archived version of the candidate's website](https://web.archive.org/web/20160601080318/https://berniesanders.com/about/) and may be &copy;2016 Bernie 2016. 
+copyright_line: Bio text adapted from [an archived version of the candidate's website](https://web.archive.org/web/20160601080318/https://berniesanders.com/about/) and may be &copy;2016 Bernie 2016.
+description: Bernie Sanders is the three-term senator from the state of Vermont. He has fought tirelessly for working families, focusing on the shrinking middle class and growing gap between the rich and everyone else.
 ---
 Bernie Sanders is a Democratic candidate for President of the United States. In 2006, he was elected to the U.S. Senate after 16 years as Vermont’s sole congressman in the House of Representatives. Bernie is now serving his third term in the U.S. Senate after winning re-election in 2018 with 71 percent of the vote.
 

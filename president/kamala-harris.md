@@ -1,6 +1,8 @@
 ---
 title: Kamala Harris
-viable: true
+viable: false
+layout: redirect
+redirect_to: /president/
 name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg
@@ -13,6 +15,7 @@ instagram: kamalaharris
 youtube: UC0XBsJpPhOLg0k4x9ZwrWzw
 medium: KamalaHarris
 copyright_line: Bio text is from [the candidate's website](https://kamalaharris.org/meet-kamala/) and is &copy;2019 Kamala Harris for the People.
+description: Kamala Harris represents California in the United States Senate, where she has fought for a $15 an hour minimum wage, Medicare for All, tuition-free higher education and the legal rights of refugees and immigrants.
 ---
 Throughout her career, Kamala Harris has been a fearless advocate for the voiceless and vulnerable and a vocal and determined fighter on behalf of all people.
 

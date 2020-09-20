@@ -6,7 +6,6 @@ jobs:
     shell: /bin/bash --login
     docker:
       - image: circleci/ruby:2.4.3-jessie-node
-        command: /sbin/init
     steps:
     - checkout
     - restore_cache:

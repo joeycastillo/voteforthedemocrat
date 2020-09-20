@@ -14,5 +14,6 @@ instagram:
 youtube: 
 copyright_line: 
 published: false
+description: 
 ---
 This is a test candidate not intended to be visible on the main site.
