@@ -1,0 +1,44 @@
+---
+layout: base
+---
+<div id="banner-wrapper">
+  <div id="banner" class="box container">
+    <div class="row">
+      <div class="col-7 col-12-medium">
+        <h2>{{ page.title }}</h2>
+        {{ content }}
+      </div>
+      <div class="col-5 col-12-medium">
+        <ul>
+          <li><a href="https://vote.gov" class="button large icon fa-arrow-circle-right">Register to Vote</a></li>
+          <li><a href="https://www.usa.gov/absentee-voting" class="button large icon fa-arrow-circle-right">Vote Absentee</a></li>
+          <li><a href="https://www.usa.gov/election-office" class="button large icon fa-arrow-circle-right">Find My State Election Office</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="features-wrapper">
+  <div class="container">
+    <div class="row">
+      {% assign states = site.data.states | sort: "name", "last" %}
+      {% assign candidates = site.pages | where: "layout", "candidate" | sort: "surname", "last" %}
+      {% if page.race %}
+        {% assign candidates = candidates | where: "race", page.race %}
+      {% endif %}
+      {% for state in states %}
+      	{% assign count = candidates | where: "state", state.abbreviation | size %}
+				{% if count > 0 %}
+					<div class="col-4 col-12-medium">
+						<section class="box feature">
+							<div class="inner">
+								<h2><a href="{{ page.url | relative_url}}{{ state.abbreviation | downcase }}/">{{state.name}}</a></h2>
+								<h6>candidates for {{ page.title }}</h6>
+							</div>
+						</section>
+					</div>
+				{% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
