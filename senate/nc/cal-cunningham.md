@@ -6,7 +6,7 @@ name: Cal
 surname: Cunningham
 state: nc
 photo: /senate/nc/cal-cunningham.jpg
-photo_terms: "[Campaign photo](https://www.flickr.com/photos/186140610@N06/49250563077/)"
+photo_terms: "[Campaign Photo](https://www.flickr.com/photos/186140610@N06/49250563077/)"
 website: https://www.calfornc.com/
 donate_link: https://secure.actblue.com/donate/cal-website
 volunteer_link: https://www.calfornc.com/get-involved/

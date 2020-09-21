@@ -5,7 +5,7 @@ name: Abby
 surname: Broyles
 state: ok
 photo: /senate/ok/abby-broyles.jpg
-photo_terms: "[Campaign photo](https://twitter.com/abbybroyles/status/1263224586084237312)"
+photo_terms: "[Campaign Photo](https://twitter.com/abbybroyles/status/1263224586084237312)"
 website: https://www.abbybroyles.com/
 donate_link: https://secure.actblue.com/donate/ab-website
 volunteer_link: https://www.abbybroyles.com/join
