@@ -1,13 +1,13 @@
 ---
-title: Chris Janicek
+title: Preston Love
 viable: true
-name: Chris
-surname: Janicek
+name: Preston
+surname: Love
 state: ne
-photo: 
-photo_terms: 
-website: 
-donate_link: 
+photo: /senate/ne/preston-love.jpg
+photo_terms: Campaign Photo
+website: https://prestonlove.com/
+donate_link: https://secure.actblue.com/donate/writeinlove
 volunteer_link: 
 facebook: 
 twitter: 

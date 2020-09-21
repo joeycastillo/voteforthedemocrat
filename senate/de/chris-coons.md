@@ -6,11 +6,11 @@ surname: Coons
 state: de
 photo: /senate/de/chris-coons.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
+website: https://chriscoons.com
+donate_link: https://secure.actblue.com/contribute/page/chriscoons.com
+volunteer_link: https://secure.chriscoons.com/page/s/sign-up-to-volunteer-web
+facebook: chriscoons
+twitter: ChrisCoonsforDE
 instagram: 
 youtube: 
 copyright_line: 

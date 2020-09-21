@@ -4,14 +4,14 @@ viable: true
 name: Jeff
 surname: Merkley
 state: or
-photo: 
+photo: /senate/or/jeff-merkley.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://www.jeffmerkley.com/
+donate_link: https://secure.actblue.com/contribute/page/stand-with-jeff-merkley
+volunteer_link: https://act.myngp.com/Forms/5865078265934317568
+facebook: JeffMerkleyOregon
+twitter: JeffMerkley
+instagram: jeffmerkley
 youtube: 
 copyright_line: 
 ---

@@ -1,17 +1,18 @@
 ---
 title: Sara Gideon
 viable: true
+pin: 40
 name: Sara
 surname: Gideon
 state: me
-photo: 
-photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+photo: /senate/me/sara-gideon.jpg
+photo_terms: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [photo](https://en.wikipedia.org/wiki/Sara_Gideon#/media/File:Sara_Gideon.jpg) [from Wikipedia](https://en.wikipedia.org/wiki/Sara_Gideon#/media/File:Sara_Gideon.jpg)."
+website: https://saragideon.com
+donate_link: https://secure.actblue.com/donate/gideon2020
+volunteer_link: https://saragideon.com/take-action/
+facebook: SaraGideonME
+twitter: saragideon
+instagram: saragideonme
 youtube: 
 copyright_line: 
 ---

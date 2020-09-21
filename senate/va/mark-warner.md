@@ -4,14 +4,14 @@ viable: true
 name: Mark
 surname: Warner
 state: va
-photo: 
+photo: /senate/va/mark-warner.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://markwarnerva.com/
+donate_link: https://secure.actblue.com/donate/mrw-web
+volunteer_link: https://markwarnerva.com/digital-organizing/
+facebook: MarkWarnerVa
+twitter: markwarnerva
+instagram: markwarnerva
 youtube: 
 copyright_line: 
 ---

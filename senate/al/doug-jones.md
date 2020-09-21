@@ -1,6 +1,7 @@
 ---
 title: Doug Jones
 viable: true
+pin: 110
 name: Doug
 surname: Jones
 state: al
@@ -10,7 +11,7 @@ donate_link: https://secure.actblue.com/donate/jones-homepage1
 volunteer_link: https://dougjones.com/get-involved
 facebook: senatordougjones
 twitter: dougjones
-instagram: dougjonesforsenate
+instagram: dougjoneshq
 copyright_line: Bio text adapted from the [candidate's website](https://dougjones.com/about) and may be &copy; 2019 Doug Jones For Senate.
 ---
 Doug Jones is a product and lifelong resident of Alabama. He was born in Fairfield, Alabama to a father who worked for U.S. Steel and a stay-at-home mom. One of Doug's grandfathers was a steelworker and the other a coal miner. He, too, spent some time working a union job in the steel mill. His parents and grandparents forged his respect for those who work to feed a family while trying to make their children's lives better.

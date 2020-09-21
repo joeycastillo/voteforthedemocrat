@@ -1,6 +1,7 @@
 ---
 title: John Hickenlooper
 viable: true
+pin: 30
 name: John
 surname: Hickenlooper
 state: co

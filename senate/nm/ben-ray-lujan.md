@@ -4,13 +4,13 @@ viable: true
 name: Ben
 surname: Ray Luján
 state: nm
-photo: 
+photo: /senate/nm/ben-ray-lujan.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
+website: https://benraylujan.com/
+donate_link: https://secure.actblue.com/donate/brlhomepage
+volunteer_link: https://secure.benrlujan.com/page/s/volunteer-senate
+facebook: BenRayLujan
+twitter: benraylujan
 instagram: 
 youtube: 
 copyright_line: 

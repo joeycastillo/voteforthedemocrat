@@ -4,14 +4,14 @@ viable: true
 name: Mike
 surname: Espy
 state: ms
-photo: 
+photo: /senate/ms/mike-espy.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://espyforsenate.com/
+donate_link: https://secure.actblue.com/donate/espy-web-2020
+volunteer_link: https://secure.ngpvan.com/uF29pCoBokKmjNsDKzhM8A2
+facebook: MikeEspyMS
+twitter: mikeespyms
+instagram: mikeespyms
 youtube: 
 copyright_line: 
 ---

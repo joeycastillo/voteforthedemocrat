@@ -6,12 +6,12 @@ surname: Durbin
 state: il
 photo: /senate/il/dick-durbin.jpg
 photo_terms: 
-website: 
-donate_link: 
+website: https://www.durbinforsenate.com
+donate_link: https://secure.actblue.com/contribute/page/dick-durbin
 volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+facebook: dickdurbin
+twitter: dickdurbin
+instagram: durbincampaign
 youtube: 
 copyright_line: 
 ---
