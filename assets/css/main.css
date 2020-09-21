@@ -1811,11 +1811,12 @@ input, select, textarea {
 		}
 
 			.box.feature .inner {
-				padding: 4em 2em 3em 2em;
+				padding: 0.5em 2em 1em 2em;
 			}
 
 			.box.feature h2 {
 				font-size: 1.35em;
+				margin-bottom: 0em;
 			}
 
 			.box.feature p {
