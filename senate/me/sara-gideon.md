@@ -1,6 +1,7 @@
 ---
 title: Sara Gideon
 viable: true
+pin: 40
 name: Sara
 surname: Gideon
 state: me

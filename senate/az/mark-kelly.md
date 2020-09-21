@@ -1,6 +1,7 @@
 ---
 title: Captain Mark Kelly
 viable: true
+pin: 10
 name: Mark
 surname: Kelly
 state: az

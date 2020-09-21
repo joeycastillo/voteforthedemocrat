@@ -1,6 +1,7 @@
 ---
 title: Amy McGrath
 viable: true
+pin: 100
 name: Amy
 surname: McGrath
 state: ky

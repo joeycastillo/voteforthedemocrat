@@ -1,6 +1,7 @@
 ---
 title: Jaime Harrison
 viable: true
+pin: 20
 name: Jaime
 surname: Harrison
 state: sc

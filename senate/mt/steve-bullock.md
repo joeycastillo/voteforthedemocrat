@@ -1,6 +1,7 @@
 ---
 title: Steve Bullock
 viable: true
+pin: 90
 layout: candidate
 name: Steve
 surname: Bullock

@@ -8,7 +8,7 @@ layout: base
     {% assign candidates = candidates | sort: "state", "last" %}
   {% endif %}
 {% else %}
-    {% assign candidates = candidates | sort: "surname", "last" | sort: "race", "last" %}
+    {% assign candidates = candidates | sort: "surname", "last" | sort: "pin", "last" %}
 {% endif %}
 {% if page.state %}
   {% assign candidates = candidates | where: "state", page.state %}

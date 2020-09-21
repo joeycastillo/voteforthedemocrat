@@ -1,6 +1,7 @@
 ---
 title: Doug Jones
 viable: true
+pin: 110
 name: Doug
 surname: Jones
 state: al

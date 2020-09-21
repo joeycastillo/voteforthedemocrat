@@ -1,6 +1,7 @@
 ---
 title: MJ Hegar
 viable: true
+pin: 70
 name: MJ
 surname: Hegar
 state: tx
