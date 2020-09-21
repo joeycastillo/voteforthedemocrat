@@ -4,8 +4,8 @@ viable: true
 name: Paulette
 surname: Jordan
 state: id
-photo: 
-photo_terms: 
+photo: /senate/id/paulette-jordan.jpg
+photo_terms: "[CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) [photo](https://commons.wikimedia.org/wiki/File:PauletteJordanIF17.JPG) by Wikipedia user [Dschwen](https://commons.wikimedia.org/wiki/User:Dschwen)."
 website: 
 donate_link: 
 volunteer_link: 

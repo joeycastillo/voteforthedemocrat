@@ -4,7 +4,7 @@ viable: true
 name: Jeanne
 surname: Shaheen
 state: nh
-photo: 
+photo: /senate/nh/jeanne-shaheen.jpg
 photo_terms: 
 website: 
 donate_link: 

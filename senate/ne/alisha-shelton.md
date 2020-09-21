@@ -1,11 +1,11 @@
 ---
-title: Chris Janicek
+title: Alisha Shelton
 viable: true
-name: Chris
-surname: Janicek
+name: Alisha
+surname: Shelton
 state: ne
-photo: 
-photo_terms: 
+photo: /senate/ne/alisha-shelton.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 

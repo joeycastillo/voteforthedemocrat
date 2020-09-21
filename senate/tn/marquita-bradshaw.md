@@ -4,7 +4,7 @@ viable: true
 name: Marquita
 surname: Bradshaw
 state: tn
-photo: 
+photo: /senate/tn/marquita-bradshaw.jpg
 photo_terms: 
 website: 
 donate_link: 

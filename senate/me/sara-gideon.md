@@ -4,8 +4,8 @@ viable: true
 name: Sara
 surname: Gideon
 state: me
-photo: 
-photo_terms: 
+photo: /senate/me/sara-gideon.jpg
+photo_terms: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [photo](https://en.wikipedia.org/wiki/Sara_Gideon#/media/File:Sara_Gideon.jpg) [from Wikipedia](https://en.wikipedia.org/wiki/Sara_Gideon#/media/File:Sara_Gideon.jpg)."
 website: 
 donate_link: 
 volunteer_link: 

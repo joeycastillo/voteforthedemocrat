@@ -4,7 +4,7 @@ viable: true
 name: Mike
 surname: Espy
 state: ms
-photo: 
+photo: /senate/ms/mike-espy.jpg
 photo_terms: 
 website: 
 donate_link: 

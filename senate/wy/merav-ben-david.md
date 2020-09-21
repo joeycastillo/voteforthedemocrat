@@ -4,8 +4,8 @@ viable: true
 name: Merav
 surname: Ben-David
 state: wy
-photo: 
-photo_terms: 
+photo: /senate/wy/merav-ben-david.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 

@@ -4,8 +4,8 @@ viable: true
 name: Amy
 surname: McGrath
 state: ky
-photo: 
-photo_terms: 
+photo: /senate/ky/amy-mcgrath.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 

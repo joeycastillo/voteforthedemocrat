@@ -4,7 +4,7 @@ viable: true
 name: Ed
 surname: Markey
 state: ma
-photo: 
+photo: /senate/ma/ed-markey.jpg
 photo_terms: 
 website: 
 donate_link: 

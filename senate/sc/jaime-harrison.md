@@ -4,8 +4,8 @@ viable: true
 name: Jaime
 surname: Harrison
 state: sc
-photo: 
-photo_terms: 
+photo: /senate/sc/jaime-harrison.jpg
+photo_terms: "[CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) [photo](https://www.flickr.com/photos/mdfriendofhillary/33054119622/) by Flickr user [Edward Kimmel](https://www.flickr.com/photos/mdfriendofhillary/)."
 website: 
 donate_link: 
 volunteer_link: 

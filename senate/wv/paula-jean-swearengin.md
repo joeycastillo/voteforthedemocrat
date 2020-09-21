@@ -4,8 +4,8 @@ viable: true
 name: Paula Jean
 surname: Swearengin
 state: wv
-photo: 
-photo_terms: 
+photo: /senate/wv/paula-jean-swearengin.jpg
+photo_terms: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [photo](https://en.wikipedia.org/wiki/Paula_Jean_Swearengin#/media/File:Portrait_of_Paula_Jean_Swearengin.png) by Wikipedia user DrOwl19."
 website: 
 donate_link: 
 volunteer_link: 

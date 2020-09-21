@@ -4,7 +4,7 @@ viable: true
 name: Jack
 surname: Reed
 state: ri
-photo: 
+photo: /senate/ri/jack-reed.jpg
 photo_terms: 
 website: 
 donate_link: 

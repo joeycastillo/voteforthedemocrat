@@ -4,8 +4,8 @@ viable: true
 name: Abby
 surname: Broyles
 state: ok
-photo: 
-photo_terms: 
+photo: /senate/ok/abby-broyles.jpg
+photo_terms: "[Campaign photo](https://twitter.com/abbybroyles/status/1263224586084237312)"
 website: 
 donate_link: 
 volunteer_link: 

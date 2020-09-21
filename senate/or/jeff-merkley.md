@@ -4,7 +4,7 @@ viable: true
 name: Jeff
 surname: Merkley
 state: or
-photo: 
+photo: /senate/or/jeff-merkley.jpg
 photo_terms: 
 website: 
 donate_link: 

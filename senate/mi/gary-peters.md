@@ -4,7 +4,7 @@ viable: true
 name: Gary
 surname: Peters
 state: mi
-photo: 
+photo: /senate/mi/gary-peters.jpg
 photo_terms: 
 website: 
 donate_link: 

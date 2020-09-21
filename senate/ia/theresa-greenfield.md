@@ -4,7 +4,7 @@ viable: true
 name: Theresa
 surname: Greenfield
 state: ia
-photo: 
+photo: /senate/ia/theresa-greenfield.jpg
 photo_terms: 
 website: 
 donate_link: 

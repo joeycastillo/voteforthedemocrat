@@ -4,8 +4,8 @@ viable: true
 name: Barbara
 surname: Bollier
 state: ks
-photo: 
-photo_terms: 
+photo: /senate/ks/barbara-bollier.jpg
+photo_terms: "[CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) [photo](https://www.flickr.com/photos/189106528@N07/50087964598/) by [Barbara Bollier](https://www.flickr.com/photos/189106528@N07/)."
 website: 
 donate_link: 
 volunteer_link: 

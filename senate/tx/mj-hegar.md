@@ -4,8 +4,8 @@ viable: true
 name: MJ
 surname: Hegar
 state: tx
-photo: 
-photo_terms: 
+photo: /senate/tx/mj-hegar.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 

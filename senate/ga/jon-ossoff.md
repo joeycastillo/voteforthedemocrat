@@ -4,8 +4,8 @@ viable: true
 name: Jon
 surname: Ossoff
 state: ga
-photo: 
-photo_terms: 
+photo: /senate/ga/jon-ossoff.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 

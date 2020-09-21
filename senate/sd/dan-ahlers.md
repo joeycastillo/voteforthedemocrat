@@ -4,8 +4,8 @@ viable: true
 name: Dan
 surname: Ahlers
 state: sd
-photo: 
-photo_terms: 
+photo: /senate/sd/dan-ahlers.jpg
+photo_terms: Campaign photo
 website: 
 donate_link: 
 volunteer_link: 
