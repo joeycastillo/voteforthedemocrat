@@ -6,12 +6,12 @@ surname: Shaheen
 state: nh
 photo: /senate/nh/jeanne-shaheen.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://jeanneshaheen.org/
+donate_link: https://secure.actblue.com/donate/shaheen-website/
+volunteer_link: https://shaheen.cp.bsd.net/page/signup/online-volunteer
+facebook: jeanneshaheenNH
+twitter: jeanneshaheen
+instagram: jeanneshaheen
 youtube: 
 copyright_line: 
 ---

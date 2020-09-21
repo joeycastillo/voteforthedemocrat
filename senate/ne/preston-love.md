@@ -1,13 +1,13 @@
 ---
-title: Alisha Shelton
+title: Preston Love
 viable: true
-name: Alisha
-surname: Shelton
+name: Preston
+surname: Love
 state: ne
-photo: /senate/ne/alisha-shelton.jpg
-photo_terms: Campaign photo
-website: 
-donate_link: 
+photo: /senate/ne/preston-love.jpg
+photo_terms: Campaign Photo
+website: https://prestonlove.com/
+donate_link: https://secure.actblue.com/donate/writeinlove
 volunteer_link: 
 facebook: 
 twitter: 

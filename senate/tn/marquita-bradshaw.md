@@ -6,12 +6,12 @@ surname: Bradshaw
 state: tn
 photo: /senate/tn/marquita-bradshaw.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://www.marquitabradshaw.com/
+donate_link: https://secure.actblue.com/donate/marquitaussenate
+volunteer_link: https://www.marquitabradshaw.com/get-involved
+facebook: Bradshaw2020Senate
+twitter: Bradshaw2020
+instagram: bradshaw2020Senate
 youtube: 
 copyright_line: 
 ---

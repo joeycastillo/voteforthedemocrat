@@ -9,10 +9,10 @@ photo: /senate/az/mark-kelly.jpg
 photo_terms: 
 website: https://markkelly.com
 donate_link: https://secure.actblue.com/donate/mek-website
-volunteer_link: 
+volunteer_link: https://go.markkelly.com/page/s/volunteer-signup
 facebook: Capt.MarkKelly
-twitter: ShuttleCDRKelly
-instagram: shuttlecdrkelly
+twitter: CaptMarkKelly
+instagram: captmarkkelly
 youtube: UCV1CKi8Tg_Y9q0V_FLHvesw
 copyright_line: Bio text is from the [candidate's website](https://markkelly.com) and is &copy; 2019 Mark Kelly for Senate. Mark Kelly was a Captain in the U.S. Navy. Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 ---

@@ -6,11 +6,11 @@ surname: Reed
 state: ri
 photo: /senate/ri/jack-reed.jpg
 photo_terms: 
-website: 
-donate_link: 
+website: https://www.jackreed.com/
+donate_link: https://secure.actblue.com/contribute/page/jackreed
 volunteer_link: 
 facebook: 
-twitter: 
+twitter: jackreed2020
 instagram: 
 youtube: 
 copyright_line: 

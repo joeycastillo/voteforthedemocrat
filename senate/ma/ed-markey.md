@@ -6,12 +6,12 @@ surname: Markey
 state: ma
 photo: /senate/ma/ed-markey.jpg
 photo_terms: 
-website: 
-donate_link: 
-volunteer_link: 
-facebook: 
-twitter: 
-instagram: 
+website: https://www.edmarkey.com
+donate_link: https://secure.actblue.com/donate/ejm2020
+volunteer_link: https://www.edmarkey.com/volunteer/
+facebook: EdMarkeyforMA
+twitter: EdMarkey
+instagram: edmarkey
 youtube: 
 copyright_line: 
 ---
