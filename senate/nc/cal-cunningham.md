@@ -5,7 +5,7 @@ name: Cal
 surname: Cunningham
 state: nc
 photo: /senate/nc/cal-cunningham.jpg
-photo_terms: "[CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) [photo](https://commons.wikimedia.org/wiki/File:James_%22Cal%22_Cunningham.jpg) by Wikipedia user Graysonbarnette."
+photo_terms: "[Campaign photo](https://www.flickr.com/photos/186140610@N06/49250563077/)"
 website: 
 donate_link: 
 volunteer_link: 
