@@ -1,4 +1,4 @@
-    ---
+---
 title: Jon Ossoff
 viable: true
 pin: 50
