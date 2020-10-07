@@ -1,7 +1,7 @@
 ---
 title: Barbara Bollier
 viable: true
-pin: 105
+pin: 110
 name: Barbara
 surname: Bollier
 state: ks

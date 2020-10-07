@@ -1,7 +1,7 @@
 ---
 title: Cal Cunningham
 viable: true
-pin: 80
+pin: 100
 name: Cal
 surname: Cunningham
 state: nc

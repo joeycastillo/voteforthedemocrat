@@ -1,6 +1,7 @@
 ---
 title: Merav Ben-David
 viable: true
+pin: 160
 name: Merav
 surname: Ben-David
 state: wy
