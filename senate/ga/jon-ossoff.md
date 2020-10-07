@@ -1,7 +1,7 @@
 ---
 title: Jon Ossoff
 viable: true
-pin: 50
+pin: 85
 name: Jon
 surname: Ossoff
 state: ga

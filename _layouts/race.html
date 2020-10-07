@@ -49,7 +49,8 @@ layout: base
               </a>
               <div class="inner">
                 <h2><a href="{{candidate.url | relative_url}}">{{candidate.title}}</a></h2>
-                <h6>for {{ candidate.race | capitalize }}{% if candidate.state %}{% assign cstate = site.data.states | where: 'abbreviation', candidate.state | first %} in {{ cstate.name | replace: ' ', '&nbsp;' }}{% else %} of the United States{% endif %}</h6>
+                {% assign words = candidate.race | split: '-' %}
+                <h6>for {% for word in words %}{{ word | capitalize }} {% endfor %}{% if candidate.state %}{% assign cstate = site.data.states | where: 'abbreviation', candidate.state | first %} in {{ cstate.name | replace: ' ', '&nbsp;' }}{% else %} of the United States{% endif %}</h6>
               </div>
             </section>
           </div>

@@ -1,6 +1,7 @@
 ---
 title: Marquita Bradshaw
 viable: true
+pin: 130
 name: Marquita
 surname: Bradshaw
 state: tn

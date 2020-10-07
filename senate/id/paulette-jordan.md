@@ -1,6 +1,7 @@
 ---
 title: Paulette Jordan
 viable: true
+pin: 170
 name: Paulette
 surname: Jordan
 state: id

@@ -1,7 +1,7 @@
 ---
 title: Paula Jean Swearengin
 viable: true
-pin: 107
+pin: 140
 name: Paula Jean
 surname: Swearengin
 state: wv

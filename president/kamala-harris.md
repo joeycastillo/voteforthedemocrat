@@ -1,14 +1,14 @@
 ---
 title: Kamala Harris
-viable: false
-layout: redirect
-redirect_to: /president/
+viable: true
+pin: 1
+race: vice-president
 name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg
 website: https://kamalaharris.org
-donate_link: https://secure.actblue.com/donate/kdh-q1-website
-volunteer_link: https://action.kamalaharris.org/signup/sign-up/
+donate_link: https://secure.actblue.com/donate/joe2020
+volunteer_link: https://joebiden.com/join/
 facebook: KamalaHarris
 twitter: KamalaHarris
 instagram: kamalaharris
