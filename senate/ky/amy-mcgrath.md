@@ -1,6 +1,6 @@
 ---
 title: Amy McGrath
-viable: true
+viable: false
 pin: 80
 name: Amy
 surname: McGrath

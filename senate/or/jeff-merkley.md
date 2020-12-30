@@ -1,6 +1,6 @@
 ---
 title: Jeff Merkley
-viable: true
+viable: false
 name: Jeff
 surname: Merkley
 state: or

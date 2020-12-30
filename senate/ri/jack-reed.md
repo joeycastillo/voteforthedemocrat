@@ -1,6 +1,6 @@
 ---
 title: Jack Reed
-viable: true
+viable: false
 name: Jack
 surname: Reed
 state: ri

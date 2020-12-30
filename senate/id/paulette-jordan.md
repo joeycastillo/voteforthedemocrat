@@ -1,6 +1,6 @@
 ---
 title: Paulette Jordan
-viable: true
+viable: false
 pin: 170
 name: Paulette
 surname: Jordan

@@ -1,6 +1,6 @@
 ---
 title: Paula Jean Swearengin
-viable: true
+viable: false
 pin: 140
 name: Paula Jean
 surname: Swearengin

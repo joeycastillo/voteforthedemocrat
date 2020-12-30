@@ -1,6 +1,6 @@
 ---
 title: Dick Durbin
-viable: true
+viable: false
 name: Dick
 surname: Durbin
 state: il

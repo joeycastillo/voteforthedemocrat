@@ -1,6 +1,6 @@
 ---
 title: Dan Ahlers
-viable: true
+viable: false
 name: Dan
 surname: Ahlers
 state: sd

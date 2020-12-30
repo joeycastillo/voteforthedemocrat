@@ -1,6 +1,6 @@
 ---
 title: Tina Smith
-viable: true
+viable: false
 name: Tina
 surname: Smith
 state: mn

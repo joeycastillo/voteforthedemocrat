@@ -1,6 +1,6 @@
 ---
 title: Barbara Bollier
-viable: true
+viable: false
 pin: 110
 name: Barbara
 surname: Bollier

@@ -1,6 +1,6 @@
 ---
 title: Mark Warner
-viable: true
+viable: false
 name: Mark
 surname: Warner
 state: va

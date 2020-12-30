@@ -14,7 +14,7 @@ facebook: jonossoff
 twitter: ossoff
 instagram: jonossoff
 youtube: UCVCG2sRHEP6VW2Ao9LEcDPw
-copyright_line: Bio text is from [the candidate's website](https://electjon.com/bio/) and may be &copy; Jon Ossoff for Iowa.
+copyright_line: Bio text is from [the candidate's website](https://electjon.com/bio/) and may be &copy; Jon Ossoff for Senate.
 ---
 Jon Ossoff is a Georgia native, media executive, investigative journalist, and small business owner.
 

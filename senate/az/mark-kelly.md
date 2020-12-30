@@ -1,6 +1,6 @@
 ---
 title: Captain Mark Kelly
-viable: true
+viable: false
 pin: 10
 name: Mark
 surname: Kelly
