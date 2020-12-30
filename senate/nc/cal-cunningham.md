@@ -1,6 +1,6 @@
 ---
 title: Cal Cunningham
-viable: true
+viable: false
 pin: 100
 name: Cal
 surname: Cunningham

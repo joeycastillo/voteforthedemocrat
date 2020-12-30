@@ -1,6 +1,6 @@
 ---
 title: Gary Peters
-viable: true
+viable: false
 name: Gary
 surname: Peters
 state: mi

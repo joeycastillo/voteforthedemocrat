@@ -1,6 +1,6 @@
 ---
 title: Chris Coons
-viable: true
+viable: false
 name: Chris
 surname: Coons
 state: de

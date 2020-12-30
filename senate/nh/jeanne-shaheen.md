@@ -1,6 +1,6 @@
 ---
 title: Jeanne Shaheen
-viable: true
+viable: false
 name: Jeanne
 surname: Shaheen
 state: nh

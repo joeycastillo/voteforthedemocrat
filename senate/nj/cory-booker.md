@@ -1,6 +1,6 @@
 ---
 title: Cory Booker
-viable: true
+viable: false
 name: Cory
 surname: Booker
 race: senate

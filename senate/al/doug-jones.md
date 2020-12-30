@@ -1,6 +1,6 @@
 ---
 title: Doug Jones
-viable: true
+viable: false
 pin: 150
 name: Doug
 surname: Jones

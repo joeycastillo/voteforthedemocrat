@@ -1,6 +1,6 @@
 ---
 title: Marquita Bradshaw
-viable: true
+viable: false
 pin: 130
 name: Marquita
 surname: Bradshaw

@@ -1,6 +1,6 @@
 ---
 title: Jaime Harrison
-viable: true
+viable: false
 pin: 20
 name: Jaime
 surname: Harrison

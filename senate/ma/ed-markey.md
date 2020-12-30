@@ -1,6 +1,6 @@
 ---
 title: Ed Markey
-viable: true
+viable: false
 name: Ed
 surname: Markey
 state: ma

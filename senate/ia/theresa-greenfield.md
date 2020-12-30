@@ -1,6 +1,6 @@
 ---
 title: Theresa Greenfield
-viable: true
+viable: false
 pin: 60
 name: Theresa
 surname: Greenfield

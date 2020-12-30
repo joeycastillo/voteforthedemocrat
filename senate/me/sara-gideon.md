@@ -1,6 +1,6 @@
 ---
 title: Sara Gideon
-viable: true
+viable: false
 pin: 40
 name: Sara
 surname: Gideon

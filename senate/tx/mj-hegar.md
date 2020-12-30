@@ -1,6 +1,6 @@
 ---
 title: MJ Hegar
-viable: true
+viable: false
 pin: 70
 name: MJ
 surname: Hegar

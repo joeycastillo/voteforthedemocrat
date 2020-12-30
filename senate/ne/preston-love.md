@@ -1,6 +1,6 @@
 ---
 title: Preston Love
-viable: true
+viable: false
 name: Preston
 surname: Love
 state: ne

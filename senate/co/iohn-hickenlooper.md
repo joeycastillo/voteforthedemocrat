@@ -1,6 +1,6 @@
 ---
 title: John Hickenlooper
-viable: true
+viable: false
 pin: 30
 name: John
 surname: Hickenlooper

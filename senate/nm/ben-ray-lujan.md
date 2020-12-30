@@ -1,6 +1,6 @@
 ---
 title: Ben Ray Luján
-viable: true
+viable: false
 pin: 120
 name: Ben
 surname: Ray Luján
