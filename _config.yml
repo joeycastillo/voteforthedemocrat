@@ -1,7 +1,7 @@
 title: Vote For The Democrat
 email: joey@voteforthedemocrat.org
 description: It really is that simple.
-baseurl: ""
+baseurl: "/"
 url: "https://www.voteforthedemocrat.org"
 permalink: pretty
 image: http://www.voteforthedemocrat.org/assets/images/logo.png
