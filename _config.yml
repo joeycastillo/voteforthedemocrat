@@ -27,9 +27,6 @@ defaults:
       layout: candidate
       race: house
 
-plugins:
-  - jekyll-sitemap
-
 # Build settings
 markdown: kramdown
 
