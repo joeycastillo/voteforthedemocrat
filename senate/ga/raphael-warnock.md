@@ -1,6 +1,6 @@
 ---
 title: Reverend Raphael Warnock
-viable: true
+viable: false
 pin: 20
 name: Raphael
 surname: Warnock

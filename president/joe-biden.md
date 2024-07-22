@@ -1,6 +1,6 @@
 ---
 title: Joe Biden
-viable: true
+viable: false
 pin: 0
 name: Joe
 surname: Biden

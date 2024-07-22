@@ -1,6 +1,6 @@
 ---
 title: Jon Ossoff
-viable: true
+viable: false
 pin: 85
 name: Jon
 surname: Ossoff
