@@ -3,6 +3,6 @@ layout: page
 title: Get the Stickers
 ---
 
-![a pile of five blue stickers reading "Vote for the Democrat"](/assets/images/vftd-stickers.jpg)
+Stickers will be available July 30th on [the Oddly Specific Objects shop](https://shop.oddlyspecificobjects.com/).
 
-Working on a better system for this. check back in a day or two.
+![a pile of five blue stickers reading "Vote for the Democrat"](/assets/images/vftd-stickers.jpg)
