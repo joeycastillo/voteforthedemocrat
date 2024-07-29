@@ -7,8 +7,8 @@ name: Kamala
 surname: Harris
 photo: /president/kamala-harris.jpg
 website: https://kamalaharris.org
-donate_link: https://secure.actblue.com/donate/web-bfp-july21-2024
-volunteer_link: https://joebiden.com/work-with-us/
+donate_link: https://secure.actblue.com/donate/web-bfp-july-kamala-2024
+volunteer_link: https://web.kamalaharris.com/forms/take-action-for-kamala-harris/
 facebook: KamalaHarris
 twitter: KamalaHarris
 instagram: kamalaharris
