@@ -8,6 +8,6 @@ There's a simple way to stop it: you vote for Kamala Harris. You vote for the De
 
 ## About the Stickers
 
-They’re stickers, measuring 5½" × 2⅛", printed on high quality white vinyl by the fine folks at [Sticker Guy](https://www.stickerguy.com). They're ideally sized for you to stick on your truck, to leave in a coffee shop, or to put on that one wall in that one restroom that's covered floor to ceiling in stickers. They're also priced cheaply enough that after you've done all those things, you'll probably have some leftover to give your friends and family.
+First off, [you can buy them here](https://shop.oddlyspecificobjects.com/products/vote-for-the-democrat-sticker).
 
-As soon as I get back to my sticker inventory, I'll have them available for sale at a link here.
+Beyond that: they’re stickers, measuring 5½" × 2⅛", printed on high quality white vinyl by the fine folks at [Sticker Guy](https://www.stickerguy.com). They're ideally sized for you to stick on your truck or your water bottle, to leave in a coffee shop, or to put on that one wall in that one restroom that's covered floor to ceiling in stickers. They're also priced cheaply enough that after you've done all those things, you'll probably have some leftover to give your friends and family.
