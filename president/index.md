@@ -7,6 +7,7 @@ copyright_line: Candidates are sorted by delegate count as of 10:30 AM on Wednes
 image: http://www.voteforthedemocrat.org/assets/images/square.png
 image_width: 1050
 image_height: 1050
+published: false
 ---
 
 The winner of this race will serve a four-year term as the chief executive of the United States of America.

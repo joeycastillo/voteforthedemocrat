@@ -1,6 +1,6 @@
 ---
 title: Kamala Harris
-viable: true
+viable: false
 pin: 1
 race: president
 name: Kamala
