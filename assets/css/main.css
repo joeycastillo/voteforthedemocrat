@@ -2620,7 +2620,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				text-align: center;
+				text-align: left;
 				padding: 15px 15px 15px 15px;
 				margin: 0 auto !important;
 			}
@@ -2633,7 +2633,6 @@ input, select, textarea {
 				#banner p {
 					font-size: 1.5em;
 					line-height: 1.5em;
-					margin: 0;
 				}
 
 				#banner ul {
